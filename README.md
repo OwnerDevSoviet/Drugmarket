@@ -13,3 +13,8 @@ I will probably add more to this soon but I have another project in mind! If you
 
 Please do not release any modifications to this as I do not approve. I will update the main branch.Thanks!
 
+Planned updates :
+
+Drug usage
+Combining drugs to make another drug that will sell for more value(laced weed) etc
+Potentially adding in cop count requirnments.
