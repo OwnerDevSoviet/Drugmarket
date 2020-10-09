@@ -18,3 +18,4 @@ Planned updates :
 Drug usage
 Combining drugs to make another drug that will sell for more value(laced weed) etc
 Potentially adding in cop count requirnments.
+Add in multiple Ais that will buy bulk of certain drugs like the EMS for pharma, a gang banger for weed coke etc.
